@@ -2,8 +2,12 @@
  [Propuesta](Propuesta_TP_DSW.md)
 
 ## Grupo
-Oliva, Laureano Ivan        48501
+|Nombre|Legajo|
+|:-|:-|
+|Oliva, Laureano Ivan|48501|
+|Salvía, Camila|49373|
+|Zallocco, Emilio|50194|             
 
-Salvía, Camila                    49373
+                        
 
-Zallocco, Emilio                50194
+              																
