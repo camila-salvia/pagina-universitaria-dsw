@@ -63,7 +63,7 @@ classDiagram
 
 - Página Dinámica que se actualiza segun quien es el usuario.
 
-- Tabla de Notas x curso para seguimiento de las notas por el profesor.
+- Tabla de Notas por curso para seguimiento de las notas por el profesor.
 
 ## Alcance Funcional
 
