@@ -31,29 +31,29 @@ classDiagram
 ```
 ### Funciones Principales
 
-  Del alumno
+* Del alumno
 
-- Mostrar los cursos en los que está inscripto.
-
-- Inscribirse a un nuevo curso.
-
-- Anotarse a un examen.
-
-- Solicitar una clase de consulta de un curso determinado.
-
-- Permitir a los alumnos ver solamente sus notas.
+  - Mostrar los cursos en los que está inscripto.
   
-  Del profesor
+  - Inscribirse a un nuevo curso.
+  
+  - Anotarse a un examen.
+  
+  - Solicitar una clase de consulta de un curso determinado.
+  
+  - Permitir a los alumnos ver solamente sus notas.
 
-- Cargar las notas de los alumnos.
+* Del profesor
 
-- Permitir a los profesores hacer el seguimiento de las notas de cada alumno en el curso a través de una tabla.
+  - Cargar las notas de los alumnos.
 
-- Subir información sobre el curso, así como apuntes o libros.
+  - Permitir a los profesores hacer el seguimiento de las notas de cada alumno en el curso a través de una tabla.
 
-- Agendar una clase de consulta.
+  - Subir información sobre el curso, así como apuntes o libros.
 
-- Añadir una fecha de examen.
+  - Agendar una clase de consulta.
+
+  - Añadir una fecha de examen.
   
 ### Necesidades de Implementación
 
