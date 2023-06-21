@@ -31,7 +31,7 @@ Zallocco, Emilio                50194
     class Persona{
         Usuario
         Contrasena
-    }
+    };
 ```
   
   
