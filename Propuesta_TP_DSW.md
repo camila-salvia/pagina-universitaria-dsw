@@ -21,7 +21,18 @@ Zallocco, Emilio                50194
   El software desarrollado permitirá que los alumnos de la facultad puedan visualizar en un mismo lugar todo lo necesario de su estado académico, así como por ejemplo, sus notas, cursos en los que está inscripto o exámenes. También permite a los profesores hacer un seguimiento académico de sus alumnos.
   
   ### Modelo
-  
+  ```mermaid
+  classDiagram
+    Clase --* Persona
+    class Clase{
+        Pagina Estatica
+        Tabla De Notas
+    }
+    class Persona{
+        Usuario
+        Contrasena
+    }
+```
   
   
   # Funciones Principales
